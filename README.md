@@ -82,4 +82,4 @@ To run the project in your local environment, follow these steps:
 
 ## 📺 App Demo
 
-<video src="https://raw.githubusercontent.com/SurasakKanlayaluk/FROMFIT-APP/refs/heads/main/formfit-demo.mp4" width="100%" controls muted autoplay loop></video>
+[![FormFit Demo Video](https://img.youtube.com/vi/รหัสวิดีโอYouTubeของคุณ/0.jpg)](https://youtube.com/shorts/Zeb8KpZAqJo?feature=share)

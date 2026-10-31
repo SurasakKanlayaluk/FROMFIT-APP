@@ -77,3 +77,9 @@ To run the project in your local environment, follow these steps:
 2. Run `npm install` or `yarn` in the project directory to install the required dependencies.
 3. Run `npx expo start` to start the Expo development server.
 4. Scan the QR code using the **Expo Go** app on your physical device, or run it on an Android/iOS emulator.
+
+---
+
+## 📺 App Demo
+
+<video src="https://raw.githubusercontent.com/SurasakKanlayaluk/FROMFIT-APP/refs/heads/main/formfit-demo.mp4" width="100%" controls muted autoplay loop></video>
